@@ -293,7 +293,7 @@ blockquote:before {
   position: absolute;
   top: -25px;
   left: 12px;
-  color: orange;
+  color: blue;
   font-family: FontAwesome;
 }
 blockquote:after {
@@ -302,7 +302,7 @@ blockquote:after {
   position: absolute;
   bottom: -25px;
   right: -5px;
-  color: orange;
+  color: blue;
   font-family: FontAwesome;
 }
 blockquote p {
@@ -514,7 +514,7 @@ a {
 a:active,
 a:focus,
 a:hover {
-  color: orange;
+  color: blue;
 }
 a:focus {
   outline: 0;
@@ -522,7 +522,7 @@ a:focus {
 a:active,
 a:hover {
   outline: 0;
-  color: orange;
+  color: blue;
 }
 .site-top {
   width: 100%;
@@ -880,7 +880,7 @@ a:hover {
   font-weight: 400;
 }
 .site-title a:hover {
-  color: orange;
+  color: blue;
 }
 .site-title img {
   height: 40px;
@@ -951,7 +951,7 @@ a:hover {
   color: #666;
 }
 .site-top ul li a:hover {
-  color: orange;
+  color: blue;
 }
 .site-top ul li a:after {
   content: "";
@@ -1169,7 +1169,7 @@ a:hover {
   color: #504e4e;
 }
 .entry-title a:hover {
-  color: orange;
+  color: blue;
 }
 .p-time {
   position: absolute;
@@ -1498,8 +1498,8 @@ body.dark .s-content {
 }
 .navigator i:hover {
   color: #fff;
-  background: orange;
-  border: 2px solid orange;
+  background: blue;
+  border: 2px solid blue;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
@@ -1521,7 +1521,7 @@ body.dark .s-content {
   color: #b9b9b9;
 }
 .site-info a:hover {
-  color: orange;
+  color: blue;
 }
 .footertext p {
   margin-bottom: 8px;
@@ -1683,7 +1683,7 @@ h1.page-title.mb- {
   margin-right: 5px;
 }
 .post-tags a:hover {
-  color: orange;
+  color: blue;
 }
 .post-tags i {
   margin-right: 5px;
@@ -1743,7 +1743,7 @@ h1.page-title.mb- {
   margin-right: 10px;
 }
 .post-share ul li a:hover {
-  color: orange;
+  color: blue;
 }
 .post-share .show-share {
   margin-left: 10px;
@@ -2423,7 +2423,7 @@ h1.works-title {
   font-style: italic;
   font-size: 20px;
   font-weight: 400;
-  color: orange;
+  color: blue;
   margin-left: 30px;
   margin-top: 50px;
 }
@@ -2449,7 +2449,7 @@ span.time {
 .ar-time i {
   padding: 10px;
   border-radius: 100px;
-  background: orange;
+  background: blue;
   color: #fff;
 }
 .ar-time {
@@ -2475,7 +2475,7 @@ span.time {
 span.ar-circle {
   height: 10px;
   width: 10px;
-  background: orange;
+  background: blue;
   display: inline-block;
   position: absolute;
   left: -5px;
@@ -2557,7 +2557,7 @@ header.page-header {
   -ms-transform: rotate(360deg);
 }
 span.sitename {
-  color: orange;
+  color: blue;
   padding-bottom: 10px;
   display: block;
   -webkit-transition: all 0.3s;
@@ -2588,11 +2588,11 @@ span.sitename {
 }
 .link-title span.link-fix {
   padding-left: 10px;
-  border-left: 3px solid orange;
+  border-left: 3px solid blue;
 }
 .links ul li:before {
   content: "";
-  background-color: orange;
+  background-color: blue;
   -webkit-transform: skew(45deg, 0);
   transform: skew(45deg, 0);
   width: 0;
@@ -2606,7 +2606,7 @@ span.sitename {
 }
 .links ul li:hover {
   color: #27323a;
-  border: 1px solid orange;
+  border: 1px solid blue;
 }
 .links ul li:hover:before {
   width: 180%;
@@ -2884,7 +2884,7 @@ a.page-numbers {
   font-weight: 600;
 }
 .comment h4 a:hover {
-  color: orange;
+  color: blue;
 }
 .comment hr {
   clear: both;
@@ -3004,7 +3004,7 @@ a.page-numbers {
   color: transparent;
 }
 .commentbody:focus {
-  border-color: orange;
+  border-color: blue;
   transition: border-color 0.25s;
 }
 .input-label {
@@ -3019,7 +3019,7 @@ a.page-numbers {
 .commentbody:focus ~ .input-label,
 .commentbody:not(:placeholder-shown) ~ .input-label {
   color: #fff;
-  background-color: orange;
+  background-color: blue;
   transform: scale(0.75) translate(-2px, -37px);
   border-radius: 3px;
 }
@@ -3839,7 +3839,7 @@ body.dark .ins-section .fa {
   padding: 10px 0;
 }
 .sorry li a:hover {
-  color: orange;
+  color: blue;
 }
 .sorry-inner {
   padding: 20px;
@@ -3854,14 +3854,14 @@ body.dark .ins-section .fa {
 .err-button.back a {
   padding: 10px 30px;
   margin: 0 10px;
-  border: 1px solid orange;
-  color: orange;
+  border: 1px solid blue;
+  color: blue;
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
   border-radius: 50px;
 }
 #gohome {
-  background: orange;
+  background: blue;
   color: #fff;
 }
 .err-button.back a:hover {
@@ -4199,7 +4199,7 @@ object {
   position: absolute;
 }
 #nprogress .bar {
-  background: orange;
+  background: blue;
   position: fixed;
   z-index: 1031;
   top: 0;
@@ -4213,7 +4213,7 @@ object {
   right: 0;
   width: 100px;
   height: 100%;
-  box-shadow: 0 0 10px orange, 0 0 5px orange;
+  box-shadow: 0 0 10px blue, 0 0 5px blue;
   opacity: 1;
   -webkit-transform: rotate(3deg) translate(0, -4px);
   -ms-transform: rotate(3deg) translate(0, -4px);
@@ -4235,8 +4235,8 @@ object {
   height: 20px;
   box-sizing: border-box;
   border: solid 3px transparent;
-  border-top-color: orange;
-  border-left-color: orange;
+  border-top-color: blue;
+  border-left-color: blue;
   border-radius: 50%;
   -webkit-animation: nprogress-spinner 0.4s linear infinite;
   animation: nprogress-spinner 0.4s linear infinite;
@@ -4346,8 +4346,8 @@ i.iconfont.down {
   font-size: 15px;
 }
 #pagination a:hover {
-  border: 1px solid orange;
-  color: orange;
+  border: 1px solid blue;
+  color: blue;
 }
 #bangumi-pagination .loading,
 #pagination .loading {
@@ -4509,7 +4509,7 @@ i.iconfont.down {
     display: none;
   }
   .links ul li:hover .sitename {
-    color: orange;
+    color: blue;
   }
   .links ul li:hover .linkdes {
     color: #949494;
@@ -4722,7 +4722,7 @@ i.iconfont.down {
   }
   #mo-nav ul li a:hover {
     cursor: pointer;
-    color: orange;
+    color: blue;
   }
   .we-content li {
     height: 250px;
@@ -5936,7 +5936,7 @@ input[type="radio"]:checked:before {
 }
 @media (min-width: 861px) {
   .hide-live2d {
-    background-color: orange;
+    background-color: blue;
     bottom: 156px;
     visibility: visible;
     min-height: 38.75px;
@@ -6368,7 +6368,7 @@ li > ol {
   color: #000;
 }
 .art .art-content #archives a:hover {
-  color: orange;
+  color: blue;
 }
 .art .art-content #archives .al_year {
   padding-left: 100px;
@@ -6525,7 +6525,7 @@ a.toc-link {
   width: 2px;
 }
 .is-active-link::before {
-  background-color: orange; /*!important*/
+  background-color: blue; /*!important*/
 }
 .flipx {
   -moz-transform: scaleX(-1);
@@ -6664,10 +6664,10 @@ a.toc-link {
 }
 .motion-switcher-table th:hover {
   background-color: rgba(245, 245, 245, 0.5);
-  color: orange;
+  color: blue;
 }
 .motion-switcher-table .on-hover {
-  color: orange;
+  color: blue;
 }
 .motion-container {
   height: 110px;
@@ -6927,8 +6927,8 @@ a.toc-link {
   cursor: pointer;
 }
 .insert-image-tips:hover {
-  color: orange;
-  border: 1px solid orange;
+  color: blue;
+  border: 1px solid blue;
 }
 .insert-image-button {
   opacity: 0;
@@ -6941,8 +6941,8 @@ a.toc-link {
   cursor: pointer;
 }
 .insert-image-tips-hover {
-  color: orange;
-  border: 1px solid orange;
+  color: blue;
+  border: 1px solid blue;
 }
 .upload-image-preview {
   display: inline-block;
@@ -7519,7 +7519,7 @@ td.hljs-ln-numbers {
   left: 0 !important;
 }
 #aplayer-float .aplayer-lrc-current {
-  color: orange;
+  color: blue;
   font-size: 15px;
   font-weight: 700;
 }
@@ -7812,5 +7812,5 @@ h6[id*="toc-head"]::before {
   height: 100%;
 }
 .bangumi-next i {
-  color: orange;
+  color: blue;
 }
